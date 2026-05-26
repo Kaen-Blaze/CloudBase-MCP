@@ -707,3 +707,10 @@ CloudBase MCP 工具本身完全开源免费（MIT）。云开发环境有免费
 - Timestamp: 2026-05-26 00:26:54 UTC
 - Action: README was updated automatically by the PR bot.
 - Next step: this change is ready for review and merge.
+
+
+<!-- AUTO-BOT -->
+## Automated bot update #14
+- Timestamp: 2026-05-26 00:28:26 UTC
+- Action: README was updated automatically by the PR bot.
+- Next step: this change is ready for review and merge.
