@@ -616,3 +616,10 @@ CloudBase MCP 工具本身完全开源免费（MIT）。云开发环境有免费
 [share-telegram-link]: https://t.me/share/url?url=https://github.com/TencentCloudBase/CloudBase-MCP&text=AI%20编程%2C%20一键上线！告别繁琐的%20DevOps%20配置%2C%20从提示词到应用上线的最短路径%20🚀
 [share-weibo-link]: http://service.weibo.com/share/share.php?sharesource=weibo&title=AI%20编程%2C%20一键上线！告别繁琐的%20DevOps%20配置%2C%20从提示词到应用上线的最短路径%20🚀&url=https://github.com/TencentCloudBase/CloudBase-MCP
 [share-weibo-shield]: https://img.shields.io/badge/-share%20on%20weibo-black?labelColor=black&logo=sinaweibo&logoColor=white&style=flat-square
+
+
+<!-- AUTO-BOT -->
+## Automated bot update #1
+- Timestamp: 2026-05-26 00:08:06 UTC
+- Action: README was updated automatically by the PR bot.
+- Next step: this change is ready for review and merge.
